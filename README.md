@@ -18,5 +18,5 @@ A Flutter project
 
 ## Download
 
-You can [download](https://github.com/sajib-mridha-nor/OTT----DhakaLive-Play/) the latest installable version of Androids.
+You can [download](https://github.com/sajib-mridha-nor/Appointments-Management/) the latest installable version of Androids.
 
